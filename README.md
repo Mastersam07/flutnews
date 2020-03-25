@@ -3,8 +3,8 @@
 A new flutter application
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![GitHub contributors](https://img.shields.io/github/contributors/cdnjs/cdnjs.svg?style=flat)]()  
-
+![GitHub contributors](https://img.shields.io/github/contributors/mastersam07/flutnews?color=success)
+![GitHub last commit](https://img.shields.io/github/last-commit/mastersam07/flutnews)
 
 > This app is under development
 >
@@ -48,8 +48,8 @@ Download the `apk-release.apk` to try out Flutsapp
 #### 2. Clone the repo
 
 ```sh
-$ git clone https://github.com/ologunB/Fmechapp/flutsapp.git
-$ cd flutsapp/
+$ git clone https://github.com/Mastersam07/flutnews.git
+$ cd flutnews/
 ```
 
 #### 3. Get your open news api key
