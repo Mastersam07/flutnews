@@ -12,7 +12,7 @@ A new flutter application
 >
 
 ## Demo
-Download the `apk-release.apk` to try out Flutsapp
+Download the `apk-debug.apk` to try out Flutsapp
 <br>
 <a href="https://github.com/mastersam07/flutnews/raw/master/app-release.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
 <br>
