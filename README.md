@@ -24,19 +24,28 @@ Download the `apk-release.apk` to try out Flutsapp
 * A brain to think 🤓
 
 ## ✨ Features
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [x] Sports News
+- [x] Business News
+- [x] Technology News
+- [x] Health  News
+- [x] Entertainment  News
+- [x] Science  News
 
 
-## Screenshots
-*
-*
-*
-*
-*
+## 📸 ScreenShots
+
+
+|<img src="ss/Home.png" width="400">|<img src="ss/Business.png" width="400">|
+|<img src="ss/Entertainment.png" width="400">|<img src="ss/General.png" width="400">|
+|<img src="ss/Health.png" width="400">|<img src="ss/Science.png" width="400">|
+|<img src="ss/Sports.png" width="400">|<img src="ss/Tech.png" width="400">|
+
+## 🔌 Plugins
+| Name | Usage |
+|------|-------|
+|[**Http**](https://pub.dev/packages/http)| Api Calls|
+|[**Cached Network Image**](https://pub.dev/packages/cached_network_image)| To display images from web|
+|[**Webview Flutter**](https://pub.dev/packages/webview_flutter)| Display news in webview|
 
 ## Dependencies
 * [Flutter](https://flutter.dev/)
@@ -63,8 +72,8 @@ String apiKey = "Your_Api_Key";
 #### 5. Run _flutter pub get_
 
 ## What's Next?
- - [ ]
- - [ ]
+ - [ ] Covid-19 news
+ - [ ] Covid-19 statistics
  - [ ]
  - [ ]
  - [ ]
