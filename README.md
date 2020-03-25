@@ -2,6 +2,7 @@
 
 A new flutter application
 
+[![Codemagic build status](https://api.codemagic.io/apps/5e7be865865697000fcab65b/5e7be865865697000fcab65a/status_badge.svg)](https://codemagic.io/apps/5e7be865865697000fcab65b/5e7be865865697000fcab65a/latest_build)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-success.svg?style=flat-square)](https://github.com/Mastersam07/flutnews/pulls)
 ![GitHub contributors](https://img.shields.io/github/contributors/mastersam07/flutnews?color=success)
 ![GitHub last commit](https://img.shields.io/github/last-commit/mastersam07/flutnews)
