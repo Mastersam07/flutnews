@@ -2,7 +2,7 @@
 
 A new flutter application
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-success.svg?style=flat-square)](https://github.com/Mastersam07/flutnews/pulls)
 ![GitHub contributors](https://img.shields.io/github/contributors/mastersam07/flutnews?color=success)
 ![GitHub last commit](https://img.shields.io/github/last-commit/mastersam07/flutnews)
 
