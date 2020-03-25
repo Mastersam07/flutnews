@@ -54,6 +54,13 @@ $ cd flutnews/
 
 #### 3. Get your open news api key
 
+#### 4. Create the file apiKey.dart in your lib folder and enter the code below:
+ 
+```sh
+String apiKey = "Your_Api_Key";
+```
+
+#### 5. Run _flutter pub get_
 
 ## What's Next?
  - [ ]
