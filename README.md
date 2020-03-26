@@ -13,9 +13,12 @@ A new flutter application
 
 ## Demo
 Download the `apk-debug.apk` to try out Flutsapp
+
 <br>
 <a href="https://static.codemagic.io/files/78af0365-d1a2-4dbe-aae4-62f2231c1bd0/2cc5c5c6-087f-41c3-ae76-519aebb69e78/app-debug.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
 <br>
+
+Don't forget to star⭐ the repo if you like what you see😉.
 
 ## 💻 Requirements
 * Any Operating System (ie. MacOS X, Linux, Windows)
